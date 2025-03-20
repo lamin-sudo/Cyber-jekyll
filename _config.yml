@@ -1,0 +1,9 @@
+title: "Personal Website"
+description: "A personal website template built with Jekyll for GitHub Pages."
+baseurl: "" # Base URL for the site
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+highlighter: rouge
