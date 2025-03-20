@@ -1,7 +1,7 @@
-title: "Personal Website"
+title: "Cyber Jekyll"
 description: "A personal website template built with Jekyll for GitHub Pages."
 baseurl: "/Cyber-jekyll" # Base URL for the site
-url: "https://lamin-sudo.github.io/" # Replace with your GitHub Pages URL
+url: "https://lamin-sudo.github.io/Cyber-jekyll" # Replace with your GitHub Pages URL
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
