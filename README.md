@@ -62,4 +62,4 @@ Please follow these steps to contribute:
 
 - **My Personal Website**: [files.dz-gsmdz.site](http://files.dz-gsmdz.site)
 - **Contact Email**: [admin@dz-gsmdz.site](mailto:admin@dz-gsmdz.site)
-- **Live GitHub Pages Link**: [Cyber-Jekyll](https://github.com/lamin-sudo/Cyber-jekyll)
+- **Live GitHub Pages Link**: [Cyber-Jekyll](https://lamin-sudo.github.io/Cyber-jekyll/)
