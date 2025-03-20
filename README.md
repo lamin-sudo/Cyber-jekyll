@@ -1,5 +1,3 @@
-# Cyber-jekyll
-
 =======
 # Cyber-jekyll
 =======
@@ -34,11 +32,5 @@ Cyber-jekyll is a modern and responsive personal website template built with Jek
    http://localhost:4000
    ```
 
-## Project Link
 
-
-[Cyber-jekyll GitHub Repository](https://github.com/lamin-sudo/Cyber-jekyll.git)
-
-
-[Cyber-jekyll GitHub Repository](https://github.com/lamin-sudo/Cyber-jekyll.git)
 
