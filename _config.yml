@@ -5,6 +5,7 @@ url: "https://lamin-sudo.github.io/Cyber-jekyll" # Replace with your GitHub Page
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap # Added sitemap plugin for better SEO
 markdown: kramdown
 highlighter: rouge
 exclude:
@@ -16,4 +17,5 @@ exclude:
   - tailwind.config.js
   - postcss.config.js
   - README.md
+  - _site # Exclude the generated site folder
 
