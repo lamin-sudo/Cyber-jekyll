@@ -1,9 +1,19 @@
 title: "Personal Website"
 description: "A personal website template built with Jekyll for GitHub Pages."
-baseurl: "" # Base URL for the site
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+baseurl: "/Cyber-jekyll" # Base URL for the site
+url: "https://lamin-sudo.github.io/" # Replace with your GitHub Pages URL
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 markdown: kramdown
 highlighter: rouge
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - postcss.config.js
+  - README.md
+
