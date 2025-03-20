@@ -899,6 +899,7 @@ header nav ul li a {
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease-in-out;
   transform: translateX(-100%);
+  z-index: 1000;
 }
 
 #sidebar.active {
@@ -918,6 +919,7 @@ header nav ul li a {
   color: #ffcc00;
   text-decoration: none;
   font-size: 18px;
+  pointer-events: auto;
 }
 
 #hamburger-menu {
